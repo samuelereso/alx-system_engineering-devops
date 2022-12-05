@@ -13,3 +13,5 @@ letter only
 a to z
 A to Z
 without c
+esreveR
+cut killer
