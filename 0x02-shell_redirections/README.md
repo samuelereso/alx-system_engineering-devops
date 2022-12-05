@@ -7,3 +7,9 @@ line #2
 Being unique is better than being perfect
 it must be that file 
 count the word 
+what is next 
+i hate bins 
+letter only
+a to z
+A to Z
+without c
